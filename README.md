@@ -24,4 +24,4 @@ Task Manager is a web application built with plain HTML, CSS, and JavaScript, ho
 
 ## Team Collaboration (Pull Requests)
 - **Incoming Pull Request (from 72365 into 73479):** [https://github.com/vistula-team-project-73479/vistula-task-manager/pull/1](https://github.com/vistula-team-project-73479/vistula-task-manager/pull/1)
-- **Outgoing Pull
+- **Outgoing Pull Request (from 73479 into 72365):** [https://github.com/vistula-team-project-72365/vistula-task-manager/pull/1](https://github.com/vistula-team-project-72365/vistula-task-manager/pull/1)
