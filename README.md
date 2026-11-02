@@ -5,6 +5,8 @@ Practical Assignment 1 – Task Manager & Team Collaboration (Course: Team Proje
 ## Student Information
 - **Student ID:** 73479
 - **GitHub Username:** `vistula-team-project-73479`
+- **Partner Student ID:** 72365
+- **Partner GitHub Username:** `vistula-team-project-72365`
 
 ## Project Overview
 Task Manager is a web application built with plain HTML, CSS, and JavaScript, hosted on GitHub Pages, and connected to a PostgreSQL database via the Supabase REST API. It supports full CRUD operations:
@@ -21,5 +23,5 @@ Task Manager is a web application built with plain HTML, CSS, and JavaScript, ho
 - **Contributor JSON:** [https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.json](https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.json)
 
 ## Team Collaboration (Pull Requests)
-- **Incoming Pull Request (Merged into this repository):** `https://github.com/vistula-team-project-73479/vistula-task-manager/pull/1` *(Pending partner PR)*
-- **Outgoing Pull Request (Merged into partner's repository):** `https://github.com/vistula-team-project-PARTNER_ID/vistula-task-manager/pull/1` *(Replace PARTNER_ID once merged)*
+- **Incoming Pull Request (from 72365 into 73479):** [https://github.com/vistula-team-project-73479/vistula-task-manager/pull/1](https://github.com/vistula-team-project-73479/vistula-task-manager/pull/1)
+- **Outgoing Pull
