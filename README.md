@@ -19,7 +19,7 @@ Task Manager is a web application built with plain HTML, CSS, and JavaScript, ho
 ## Project & Deployment Links
 - **GitHub Repository:** [https://github.com/vistula-team-project-73479/vistula-task-manager](https://github.com/vistula-team-project-73479/vistula-task-manager)
 - **Live Application (GitHub Pages):** [https://vistula-team-project-73479.github.io/vistula-task-manager/](https://vistula-team-project-73479.github.io/vistula-task-manager/)
-- **Contributor Page:** [https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.html](https://github.com/vistula-team-project-73479/vistula-task-manager/blob/main/contribution.html)
+- **Contributor Page:** [https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.html](https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.html)
 - **Contributor JSON:** [https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.json](https://vistula-team-project-73479.github.io/vistula-task-manager/contribution.json)
 
 ## Team Collaboration (Pull Requests)
